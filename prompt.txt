@@ -1,0 +1,50 @@
+Create a complete Snake Game application in Java using Swing GUI.
+
+Requirements:
+- Use Java Swing for graphical interface.
+- Create a proper game window with:
+  - Start screen
+  - Game panel
+  - Score display
+  - Game over screen
+- Snake should move smoothly using arrow keys.
+- Food should spawn randomly.
+- Snake grows after eating food.
+- Detect collisions with walls and itself.
+- Add restart functionality.
+- Use object-oriented programming principles.
+
+Project Structure:
+- Main.java
+- GameFrame.java
+- GamePanel.java
+- Snake.java
+- Food.java
+- GameLogic.java
+
+Features:
+- Smooth animation using Timer.
+- Colorful UI.
+- Display current score and high score.
+- Adjustable speed difficulty.
+- Proper game loop.
+- Use Java Swing only (no JavaFX).
+
+Code Quality:
+- Beginner-friendly explanation with comments.
+- Clean and professional coding style.
+- Separate logic and UI properly.
+- Make the project easy to expand later.
+
+Output:
+- Provide full runnable code for every file separately.
+- Include steps to compile and run:
+  javac *.java
+  java Main
+
+Bonus Features:
+- Pause/Resume
+- Background music placeholders
+- Difficulty modes
+- Grid-based movement
+- Responsive keyboard controls
